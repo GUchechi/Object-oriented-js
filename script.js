@@ -4,3 +4,6 @@ class User {
         this.name = name;
     }
 }
+
+let userOne = new User();
+let userTwo = new User();
